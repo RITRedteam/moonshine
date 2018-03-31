@@ -1,0 +1,6 @@
+---
+# The network to pull IP addresses from
+netmask: 192.168.177.0/24
+interface: eth0
+# The bruteforce password list to try
+passwordlist: passwords.txt
