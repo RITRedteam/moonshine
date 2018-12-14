@@ -1,3 +1,7 @@
+# Deprecated
+Moonshine has been replaced with [Sangheili](https://github.com/RITRedteam/Sangheili) as is can proxy any protocol and not just SSH.
+
+
 # Moonshine
 Proxy redteam SSH connections going to the blue team and assign a random IP address on the way out.
 
